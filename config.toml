@@ -1,0 +1,14 @@
+onboarding = false
+
+[keys]
+prefix = "alt+b"
+
+[theme]
+name = "terminal"
+
+[theme.custom]
+panel_bg    = "#333846"
+surface0    = "#333846"
+surface1    = "#373c4b"
+surface_dim = "#3d4455"
+mauve       = "#ba9cf3"
